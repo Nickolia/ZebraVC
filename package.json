@@ -1,0 +1,16 @@
+{
+  "name"          : "ZebraVC",
+  "description"   : "Start your JS App with VC(View,Controller) Framework.",
+  "keywords"      : ["view", "controller","directive", "router", "server", "client", "browser"],
+  "author"        : "Zebrev Nickolai",
+  "main"          : "zebra.js",
+  "version"       : "0.0.1",
+  "license"       : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nickolia/ZebraVC"
+  },
+  "files": [
+    "ZebraVC.js", "LICENSE"
+  ]
+}
